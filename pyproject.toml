@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mcp-server-aidrac"
-version = "0.1.0"
-description = "AIdrac - AI-Powered Out-of-Band Management. Remote control via DTMF, ultrasonic, Morse. The open alternative to iDRAC/iLO/IPMI."
+version = "0.2.0"
+description = "AIdrac - AI-Powered Out-of-Band Management with Sentinel AI. Remote control via DTMF, ultrasonic, Morse. The open alternative to iDRAC/iLO/IPMI."
 readme = "README.md"
 license = "AGPL-3.0-or-later"
 authors = [
@@ -14,6 +14,7 @@ authors = [
 ]
 keywords = [
     "aidrac",
+    "sentinel",
     "oob",
     "out-of-band",
     "remote-management",
@@ -28,7 +29,8 @@ keywords = [
     "ilo",
     "humotica",
     "mcmurdo",
-    "air-gapped"
+    "air-gapped",
+    "hardware-guardian"
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",

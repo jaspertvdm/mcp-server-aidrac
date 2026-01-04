@@ -49,12 +49,13 @@ Part of HumoticaOS McMurdo Off-Grid Communication Layer.
 One love, one fAmIly!
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 from .protocols.dtmf import DTMF, DTMFTone
 from .protocols.ultrasonic import Ultrasonic, UltrasonicMode
 from .transports.ntfy import Ntfy
 from .transports.ipoll_bridge import IPollBridge
+from .bridges.sentinel import SentinelBridge, SentinelCommand
 
 __all__ = [
     "__version__",
@@ -64,4 +65,6 @@ __all__ = [
     "UltrasonicMode",
     "Ntfy",
     "IPollBridge",
+    "SentinelBridge",
+    "SentinelCommand",
 ]
