@@ -3,7 +3,7 @@
   "maintainers": [
     "jaspertvdm"
   ],
-  "name": "AIdrac",
+  "name": "Humotica - AIdrac",
   "description": "AI-Powered Out-of-Band Management with Sentinel AI - Remote control via DTMF, ultrasonic, Morse",
   "repository": "https://github.com/jaspertvdm/mcp-server-aidrac",
   "license": "AGPL-3.0",
