@@ -1,1 +1,11 @@
-{"$schema":"https://glama.ai/mcp/schemas/server.json","maintainers":["jaspertvdm"]}
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "jaspertvdm"
+  ],
+  "name": "AiDRAC",
+  "description": "AI Out-of-Band Management - DTMF, Ultrasonic, ntfy communication",
+  "repository": "https://github.com/jaspertvdm/mcp-server-aidrac",
+  "license": "MIT",
+  "homepage": "https://humotica.com"
+}
