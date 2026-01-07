@@ -70,9 +70,9 @@ aidrac-notify = "mcp_server_aidrac.cli.notify:main"
 
 [project.urls]
 Homepage = "https://humotica.com"
-Documentation = "https://github.com/Humotica/mcp-server-aidrac"
-Repository = "https://github.com/Humotica/mcp-server-aidrac"
-Issues = "https://github.com/Humotica/mcp-server-aidrac/issues"
+Documentation = "https://github.com/jaspertvdm/mcp-server-aidrac"
+Repository = "https://github.com/jaspertvdm/mcp-server-aidrac"
+Issues = "https://github.com/jaspertvdm/mcp-server-aidrac/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/mcp_server_aidrac"]
