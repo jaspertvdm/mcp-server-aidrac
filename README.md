@@ -207,3 +207,11 @@ AIdrac is part of the McMurdo Off-Grid Communication Layer:
 One love, one fAmIly! 💙
 
 Built by Jasper and Root AI for a world where AI and humans work together.
+
+## Official Distribution
+
+This package is officially distributed via:
+- **PyPI**: https://pypi.org/project/mcp-server-aidrac/
+- **GitHub**: https://github.com/jaspertvdm/mcp-server-aidrac
+
+> **Note**: Third-party directories may list this package but are not official or verified distribution channels for Humotica software.
